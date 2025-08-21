@@ -1,0 +1,23 @@
+answer 1: 1- where is used to filter rows before grouping the data, while having filters after preforming
+             group by
+
+answer 2: 1- left join returns all records from the left table and only the matching records from the right
+             table, while right join does the opposite.
+
+answer 3: 2- it filters and returns only unique values, eliminating duplicates from each column.
+
+answer 4: 2- using limit.
+
+answer 5: 1- it creates a relationship between tables to maintain data integrity.
+
+answer 6: 2- the records in the child table are deleted when the corresponding record in the parent table
+             is deleted.
+
+answer 7: 4- counts only none null values.
+
+answer 8: 1- sets a default value for a column if no value is provided.
+
+answer 9: 4- full outer join.
+
+answer 10: 1- prevents invalid values from being entered into a sensitive column.
+
